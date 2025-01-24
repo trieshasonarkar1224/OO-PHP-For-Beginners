@@ -26,7 +26,7 @@ Highlights:
           -Explaining the concept of classes as templates or blueprints for creating objects, using a real-life example of a car factory.
           <br>
 
-          <br>
+
 🌟 Creating classes in PHP involves defining properties and methods. Properties are like variables, holding object-specific information, while methods are functions for object actions.
 <br>
           -Visibility modifiers in PHP classes control access to properties and methods, ensuring encapsulation and code security.
